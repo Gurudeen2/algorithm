@@ -4,7 +4,7 @@
 def bubblessort(array):
     array_len = len(array)
 
-    for i in range(0, array_len-1):
+    for i in range(array_len):
     
         for j in range(array_len-i-1):
             if array[j] > array[j+1]:
