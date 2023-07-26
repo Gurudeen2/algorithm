@@ -13,4 +13,3 @@ def bubblessort(array):
     return array
 
 print(bubblessort([2,6,1,5]))
-
